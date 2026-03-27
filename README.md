@@ -1,4 +1,4 @@
 # Data-Management
 Data Management Samples
 
-Samples are broken out in branches based on the subject.
+Sample Population Map.xlsx - A sample documentation simulating a how I would put together a documentation on populations and their benefits or other pertient information to each population.
