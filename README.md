@@ -7,3 +7,4 @@ Population-Management: Understanding and example of understanding my data and it
 
 Blue-KC: Data mangament work using a real life example of the coding and breaking down the zip codes of the Blue Kansas City service area.
 
+Data-Analysis: My reviews of data.
